@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Keenan 🛡️
+### Cybersecurity Enthusiast | [Student/Analyst/Penetester]
 
-<!--
-**keenantech/KeenanTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I focus on **[Blue Teaming / Red Teaming / SOC / AppSec]**. I love breaking things to understand how to fix them better.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Labs & TryHackMe / HTB
+*Documentation of my hands-on practice in controlled environments.*
+
+* **[Lab Name: Home Lab Setup]**: Built a virtualized environment using Proxmox/VMWare with PfSense and Kali.
+* **[Lab Name: Active Directory Attack]**: Practiced LLMNR Poisoning and Kerberoasting in a lab environment.
+* **[TryHackMe Profile]**: [Link to your profile] - Current Rank: Top X%
+
+## 🚀 Featured Projects
+*Technical tools and scripts I've developed.*
+
+### 🛡️ [Project Name 1: Network Scanner]
+* **Description:** A Python-based tool that identifies open ports and detects service versions.
+* **Tech:** Python, Nmap API, Scapy.
+* [View Project](link-to-repo)
+
+### 🕵️ [Project Name 2: SOC Automation Script]
+* **Description:** Automated the parsing of Windows Event Logs to identify failed login attempts.
+* **Tech:** PowerShell, SIEM (Splunk/ELK).
+* [View Project](link-to-repo)
+
+---
+
+## 🛠️ Technical Toolbox
+| Category | Tools/Languages |
+| :--- | :--- |
+| **Languages** | Python, Bash, PowerShell, SQL |
+| **OS** | Kali Linux, Parrot OS, Windows Server |
+| **Security** | Wireshark, Metasploit, Burp Suite, Nmap |
+| **Defensive** | Splunk, Snort, Wireshark, CrowdStrike |
+
+---
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
