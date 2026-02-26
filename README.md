@@ -8,7 +8,7 @@ I focus on **Blue Teaming**.
 ## 🔬 Home Labs
 *Documentation of my hands-on practice in controlled environments.*
 
-* **[Lab Name: Home Lab Setup]**: Built a virtualized environment using Proxmox/VMWare with PfSense and Kali.
+* **[Lab Name: Home Lab Setup]**: Built a virtualized server environment Fedora Server.
 * **[Lab Name: Active Directory Attack]**: Practiced LLMNR Poisoning and Kerberoasting in a lab environment.
 * **[TryHackMe Profile]**: [Link to your profile] - Current Rank: Top 1%
 
