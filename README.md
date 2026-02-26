@@ -15,15 +15,15 @@ I focus on **[Blue Teaming / Red Teaming / SOC / AppSec]**. I love breaking thin
 ## 🚀 Featured Projects
 *Technical tools and scripts I've developed.*
 
-### 🛡️ [Project Name 1: Network Scanner]
-* **Description:** A Python-based tool that identifies open ports and detects service versions.
-* **Tech:** Python, Nmap API, Scapy.
-* [View Project](link-to-repo)
+### 🕵️ [OSINT Tool]
+* **Description:** A Python-based OSINT tool that utilizes advanced OSINT methods including Google Dorks, URL encoding, and path manipulation to gather and analyze information about people, places, or things.
+* **Tech:** Python , Bash
+* [View Project](https://github.com/keenantech/Toschi)
 
-### 🕵️ [Project Name 2: SOC Automation Script]
-* **Description:** Automated the parsing of Windows Event Logs to identify failed login attempts.
-* **Tech:** PowerShell, SIEM (Splunk/ELK).
-* [View Project](link-to-repo)
+### 🛡️ [Password Manager]
+* **Description:** Built a Python-based password manager with a GUI (Tkinter/PyQt) to securely store and manage passwords.
+* **Tech:** Python, Tkinter or PyQT.
+* [View Project](https://github.com/keenantech/DyspoPass)
 
 ---
 
