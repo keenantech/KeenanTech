@@ -1,7 +1,7 @@
 # Hi, I'm Keenan 🛡️
 ### Cybersecurity Enthusiast | [Student/Analyst/Penetester]
 
-I focus on **Blue Teaming**. I love breaking things to understand how to fix them better.
+I focus on **Blue Teaming**. 
 
 ---
 
