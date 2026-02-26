@@ -1,7 +1,7 @@
 # Hi, I'm Keenan 🛡️
 ### Cybersecurity Enthusiast | [Student/Analyst/Penetester]
 
-I focus on **[Blue Teaming / Red Teaming / SOC / AppSec]**. I love breaking things to understand how to fix them better.
+I focus on **Blue Teaming**. I love breaking things to understand how to fix them better.
 
 ---
 
@@ -10,17 +10,17 @@ I focus on **[Blue Teaming / Red Teaming / SOC / AppSec]**. I love breaking thin
 
 * **[Lab Name: Home Lab Setup]**: Built a virtualized environment using Proxmox/VMWare with PfSense and Kali.
 * **[Lab Name: Active Directory Attack]**: Practiced LLMNR Poisoning and Kerberoasting in a lab environment.
-* **[TryHackMe Profile]**: [Link to your profile] - Current Rank: Top X%
+* **[TryHackMe Profile]**: [Link to your profile] - Current Rank: Top 1%
 
 ## 🚀 Featured Projects
 *Technical tools and scripts I've developed.*
 
-### 🕵️ [OSINT Tool]
+### 🕵️ OSINT Tool
 * **Description:** A Python-based OSINT tool that utilizes advanced OSINT methods including Google Dorks, URL encoding, and path manipulation to gather and analyze information about people, places, or things.
 * **Tech:** Python , Bash
 * [View Project](https://github.com/keenantech/Toschi)
 
-### 🛡️ [Password Manager]
+### 🛡️ Password Manager
 * **Description:** Built a Python-based password manager with a GUI (Tkinter/PyQt) to securely store and manage passwords.
 * **Tech:** Python, Tkinter or PyQT.
 * [View Project](https://github.com/keenantech/DyspoPass)
@@ -37,5 +37,4 @@ I focus on **[Blue Teaming / Red Teaming / SOC / AppSec]**. I love breaking thin
 
 ---
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=keenantech&show_icons=true&theme=radical)
+
