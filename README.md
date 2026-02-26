@@ -5,7 +5,7 @@ I focus on **[Blue Teaming / Red Teaming / SOC / AppSec]**. I love breaking thin
 
 ---
 
-## 🔬 Labs & TryHackMe / HTB
+## 🔬 Home Labs
 *Documentation of my hands-on practice in controlled environments.*
 
 * **[Lab Name: Home Lab Setup]**: Built a virtualized environment using Proxmox/VMWare with PfSense and Kali.
