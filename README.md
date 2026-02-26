@@ -38,4 +38,4 @@ I focus on **[Blue Teaming / Red Teaming / SOC / AppSec]**. I love breaking thin
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=keenantech&show_icons=true&theme=radical)
