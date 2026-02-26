@@ -33,7 +33,7 @@ I focus on **[Blue Teaming / Red Teaming / SOC / AppSec]**. I love breaking thin
 | **Languages** | Python, Bash, Javascript , HTML & CSS , SQL |
 | **OS** | Kali Linux, Parrot OS, Windows Server |
 | **Security** | Wireshark, Metasploit, Burp Suite, Nmap |
-| **Defensive** | Splunk, Snort, Wireshark, CrowdStrike |
+| **Defensive** | Splunk, Snort, Wireshark |
 
 ---
 
