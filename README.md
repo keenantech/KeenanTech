@@ -9,7 +9,7 @@ I focus on **Blue Teaming**.
 *Documentation of my hands-on practice in controlled environments.*
 
 * **Home Lab Setup**: Built a virtualized server environment using Windows Server 2022 an Active Directory.
-* **[TryHackMe Profile]**: [Link to your profile] - Current Rank: Top 1%
+* **[TryHackMe Profile]**: [https://tryhackme.com/p/keenantech] - Current Rank: Top 1%
 
 ## 🚀 Featured Projects
 *Technical tools and scripts I've developed.*
