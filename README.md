@@ -36,8 +36,8 @@ I focus on **Blue Teaming**.
   <a href="">
     <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
   </a>
-
-    <img src="https://img.shields.io/badge/Certified%20In%20Cybersecurity-468145?style=for-the-badge&logo=isc2&logoColor=white" />
+  <a>   <img src="https://img.shields.io/badge/Certified%20In%20Cybersecurity-468145?style=for-the-badge&logo=isc2&logoColor=white" /></a>
+ 
 
 </div>
 
